@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @za1377
+- 👋 Hi, I’m Zahra Anvari
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning React and Srping boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
